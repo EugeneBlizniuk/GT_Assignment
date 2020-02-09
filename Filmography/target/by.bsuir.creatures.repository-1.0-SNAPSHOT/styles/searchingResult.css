@@ -1,0 +1,65 @@
+#result_submits_container {
+    position: absolute;
+    display: block;
+    width: 100px;
+    height: 200px;
+    margin-left: 90%;
+}
+#searching_result_films_container {
+    position: absolute;
+    margin-left: 30%;
+    margin-top: 5%;
+}
+h2 {
+    text-align: center;
+    color: darkgoldenrod;
+}
+label {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif, serif;
+    font-size: 18px;
+}
+table {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif, serif;
+    font-size: 14px;
+    border-radius: 10px;
+    border-spacing: 0;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    color: #05990b;
+}
+th {
+    background: #ebc486;
+    color: #de8aff;
+    text-shadow: 0 1px 1px #2d2b1b;
+    padding: 10px 20px;
+}
+th, td {
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    border-color: white;
+}
+th:first-child, td:first-child {
+    text-align: left;
+}
+th:first-child {
+    border-top-left-radius: 10px;
+}
+th:last-child {
+    border-top-right-radius: 10px;
+    border-right: none;
+}
+td {
+    padding: 10px 20px;
+    background: #f8e565;
+}
+tr:last-child td:first-child {
+    border-radius: 0 0 0 10px;
+}
+tr:last-child td:last-child {
+    border-radius: 0 0 10px 0;
+}
+tr td:last-child {
+    border-right: none;
+}

@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+    color: crimson;
+}
+#search_page_container {
+    position: absolute;
+    display: block;
+    width: 20%;
+    margin-left: 40%;
+}
