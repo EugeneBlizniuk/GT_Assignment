@@ -1,13 +1,15 @@
+–ò—Å–ø–æ–ª—å–∑–æ–≤–∞–ª: Spring(5.2.3), Hibernate(5.4.3), PostgreSQL 11
+–†–∞–∑–≤–µ—Ä—Ç—ã–≤–∞–Ω–∏–µ –Ω–∞ –±–∞–∑–µ Tomcat(9.0.27)
 
-»ÒÔÓÎ¸ÁÓ‚‡Î: Spring(5.2.3), Hibernate(5.4.3)
-–‡Á‚ÂÚ˚‚‡ÌËÂ Ì‡ ·‡ÁÂ Tomcat(9.0.27)
+–°—Å—ã–ª–∫–∞ –Ω–∞ –ø–æ–ª–Ω—É—é –≤–µ—Ä–∏—Å—é:
+https://github.com/EugeneBlizniuk/GT_Assignment
 
-—Ò˚ÎÍ‡ Ì‡ ÔÓÎÌÛ˛ ‚ÂËÒ˛:
-github.com/EugeneBlizniuk/GT_Assignment
-
-◊ÚÓ·˚ Á‡ÔÛÒÚËÚ¸ ÔËÎÓÊÂÌËÂ:
-1) —Í‡˜‡Ú¸ ÔËÎÓÊÂÌËÂ: git clone github.com/EugeneBlizniuk/GT_Assignment
-2) Add Framework support... -> Hibernate -> ok
-3) View -> Tool Windows -> Persistence(ÓÚÍÓÂÚÒˇ ‚ÍÎ‡‰Í‡) -> 
-Ô‡‚‡ˇ ÍÌÓÔÍ‡ Ï˚¯Ë ‚˚·Ë‡ÂÏ Assign Data Sources -> ‚ Data Source ÛÍ‡Á˚‚‡ÂÏ ÒÓÂ‰ËÌÂÌËÂ Ò ¡ƒ Ë ÊÏÂÏ Œ .
-4) œÓÒÎÂ Ì‡ÒÚÓËÚ¸ ÍÓÌÙË„Û‡ˆËË ‰Îˇ Tomcat Ë ÏÓÊÌÓ Á‡ÔÛÒÍ‡Ú¸.
+–ß—Ç–æ–±—ã –∑–∞–ø—É—Å—Ç–∏—Ç—å –ø—Ä–∏–ª–æ–∂–µ–Ω–∏–µ:
+1) –°–∫–∞—á–∞—Ç—å –ø—Ä–∏–ª–æ–∂–µ–Ω–∏–µ: git clone https://github.com/EugeneBlizniuk/GT_Assignment
+2) –°–æ–∑–¥–∞—Ç—å –ë–î, —Ç–∞–±–ª–∏—Ü—ã –∏ –¥–æ–±–∞–≤–∏—Ç—å –¥–∞–Ω–Ω—ã–µ –º–æ–∂–Ω–æ –ø–æ —Å–∫—Ä–∏–ø—Ç–∞–º –Ω–∏–∂–µ(–ø—É–Ω–∫—Ç 1).
+3) –û–ø—Ü–∏–æ–Ω–∞–ª—å–Ω—ã–µ –ø—É–Ω–∫—Ç—ã:
+  a) Add Framework support... -> Hibernate -> ok
+  b) View -> Tool Windows -> Persistence(–æ—Ç–∫—Ä–æ–µ—Ç—Å—è –≤–∫–ª–∞–¥–∫–∞) -> 
+  –ø—Ä–∞–≤–∞—è –∫–Ω–æ–ø–∫–∞ –º—ã—à–∏ –≤—ã–±–∏—Ä–∞–µ–º Assign Data Sources -> –≤ Data Source —É–∫–∞–∑—ã–≤–∞–µ–º —Å–æ–µ–¥–∏–Ω–µ–Ω–∏–µ —Å –ë–î –∏ –∂–º–µ–º –û–ö.
+  c) –í —Ñ–∞–π–ª–µ db.properties —É—Å—Ç–∞–Ω–æ–≤–∏—Ç—å —Å–≤–æ–π user –∏ password.
+4) –ü–æ—Å–ª–µ –Ω–∞—Å—Ç—Ä–æ–∏—Ç—å –∫–æ–Ω—Ñ–∏–≥—É—Ä–∞—Ü–∏–∏ –¥–ª—è Tomcat –∏ –º–æ–∂–Ω–æ –∑–∞–ø—É—Å–∫–∞—Ç—å.
