@@ -16,7 +16,6 @@ public class Director {
     @Column(name = "last_name")
     private String lastName;
     @Column(name = "birth_date")
-    //@DateTimeFormat(pattern = "yyyy-MM-dd")
     private LocalDate birthDate;
     @OneToMany(mappedBy = "director", cascade = CascadeType.ALL, orphanRemoval = true)
     private Set<Film> films;
