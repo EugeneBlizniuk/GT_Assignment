@@ -1,5 +1,6 @@
 Использовал: Spring(5.2.3), Hibernate(5.4.3), PostgreSQL 11
 Развертывание на базе Tomcat(9.0.27)
+Реализовано все по заданию, а также web user interface и unit tests.
 
 Ссылка на полную верисю:
 https://github.com/EugeneBlizniuk/GT_Assignment
