@@ -12,5 +12,5 @@ https://github.com/EugeneBlizniuk/GT_Assignment
   a) Add Framework support... -> Hibernate -> ok
   b) View -> Tool Windows -> Persistence(откроется вкладка) -> 
   правая кнопка мыши выбираем Assign Data Sources -> в Data Source указываем соединение с БД и жмем ОК.
-  c) В файле db.properties установить свой user и password.
+  c) В файле db.properties установить свои user и password.
 4) После настроить конфигурации для Tomcat и можно запускать.
